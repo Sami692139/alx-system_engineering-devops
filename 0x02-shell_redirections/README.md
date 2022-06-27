@@ -1,1 +1,1 @@
-bash coding bla bla
+Shell redirections
